@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\waekdo\\Desktop\\Fedex\\BlazorSignalRApp\\Client\\BlazorSignalRApp.Client.csproj",
+  "FilePath": "c:\\Users\\waekdo\\Desktop\\BlazorPutAndSignalR\\BlazorSignalRApp\\Client\\BlazorSignalRApp.Client.csproj",
   "Configuration": {
     "ConfigurationName": "Default",
     "LanguageVersion": "3.0",
@@ -11782,43 +11782,43 @@
   "RootNamespace": "BlazorSignalRApp.Client",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\waekdo\\Desktop\\Fedex\\BlazorSignalRApp\\Client\\App.razor",
-      "TargetPath": "App.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\waekdo\\Desktop\\Fedex\\BlazorSignalRApp\\Client\\Pages\\FetchData.razor",
+      "FilePath": "c:\\Users\\waekdo\\Desktop\\BlazorPutAndSignalR\\BlazorSignalRApp\\Client\\Pages\\FetchData.razor",
       "TargetPath": "Pages\\FetchData.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\waekdo\\Desktop\\Fedex\\BlazorSignalRApp\\Client\\Shared\\NavMenu.razor",
+      "FilePath": "c:\\Users\\waekdo\\Desktop\\BlazorPutAndSignalR\\BlazorSignalRApp\\Client\\Shared\\NavMenu.razor",
       "TargetPath": "Shared\\NavMenu.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\waekdo\\Desktop\\Fedex\\BlazorSignalRApp\\Client\\Shared\\MainLayout.razor",
-      "TargetPath": "Shared\\MainLayout.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\waekdo\\Desktop\\Fedex\\BlazorSignalRApp\\Client\\Shared\\SurveyPrompt.razor",
+      "FilePath": "c:\\Users\\waekdo\\Desktop\\BlazorPutAndSignalR\\BlazorSignalRApp\\Client\\Shared\\SurveyPrompt.razor",
       "TargetPath": "Shared\\SurveyPrompt.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\waekdo\\Desktop\\Fedex\\BlazorSignalRApp\\Client\\Pages\\Index.razor",
-      "TargetPath": "Pages\\Index.razor",
+      "FilePath": "c:\\Users\\waekdo\\Desktop\\BlazorPutAndSignalR\\BlazorSignalRApp\\Client\\Pages\\Counter.razor",
+      "TargetPath": "Pages\\Counter.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\waekdo\\Desktop\\Fedex\\BlazorSignalRApp\\Client\\_Imports.razor",
+      "FilePath": "c:\\Users\\waekdo\\Desktop\\BlazorPutAndSignalR\\BlazorSignalRApp\\Client\\Shared\\MainLayout.razor",
+      "TargetPath": "Shared\\MainLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\waekdo\\Desktop\\BlazorPutAndSignalR\\BlazorSignalRApp\\Client\\App.razor",
+      "TargetPath": "App.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\waekdo\\Desktop\\BlazorPutAndSignalR\\BlazorSignalRApp\\Client\\_Imports.razor",
       "TargetPath": "_Imports.razor",
       "FileKind": "componentImport"
     },
     {
-      "FilePath": "c:\\Users\\waekdo\\Desktop\\Fedex\\BlazorSignalRApp\\Client\\Pages\\Counter.razor",
-      "TargetPath": "Pages\\Counter.razor",
+      "FilePath": "c:\\Users\\waekdo\\Desktop\\BlazorPutAndSignalR\\BlazorSignalRApp\\Client\\Pages\\Index.razor",
+      "TargetPath": "Pages\\Index.razor",
       "FileKind": "component"
     }
   ],
